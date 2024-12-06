@@ -1,0 +1,23 @@
+{
+  "name": "workmapty_vlaicu",
+  "version": "1.0.0",
+  "description": "workout map adder",
+  "default": "index.html",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html --dist-dir ./dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cristianvlaicu/workMapty_Vlaicu.git"
+  },
+  "author": "Cristian Vlaicu Solomon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cristianvlaicu/workMapty_Vlaicu/issues"
+  },
+  "homepage": "https://github.com/cristianvlaicu/workMapty_Vlaicu#readme",
+  "devDependencies": {
+    "parcel": "^2.13.2"
+  }
+}
