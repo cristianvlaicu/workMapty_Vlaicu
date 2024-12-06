@@ -1,2 +1,9 @@
 node_modules
 .parcel_cache
+.parcel-cache/400f7a472d77a189-BundleGraph
+.parcel-cache/d3fc123861b8a331-AssetGraph
+.parcel-cache/data.mdb
+.parcel-cache/e3ff8f9f57bb30bf-AssetGraph
+.parcel-cache/f5d84aa71e5fe526-RequestGraph
+.parcel-cache/lock.mdb
+.parcel-cache/snapshot-f5d84aa71e5fe526.txt
